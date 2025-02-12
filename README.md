@@ -21,7 +21,7 @@ I'm a **B.Tech Computer Science Engineering** student and a **fresher in softwar
 - AI & Automation-based projects  
 
 📫 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Gupta-blue?style=flat&logo=linkedin)]([www.linkedin.com/in/imomkar11](https://www.linkedin.com/in/imomkar11/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Gupta-blue?style=flat&logo=linkedin)](www.linkedin.com/in/imomkar11)  
 
 ⚡ **Fun Fact:** I love problem-solving and building tech solutions that make life easier!  
 
