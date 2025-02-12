@@ -1,4 +1,4 @@
-Here's your updated GitHub profile README without mentioning your HR experience:  
+Here's your updated GitHub profile README 
 
 ---
 
@@ -21,7 +21,7 @@ I'm a **B.Tech Computer Science Engineering** student and a **fresher in softwar
 - AI & Automation-based projects  
 
 📫 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Gupta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aayushgupta8602021515)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Gupta-blue?style=flat&logo=linkedin)](www.linkedin.com/in/imomkar11)  
 
 ⚡ **Fun Fact:** I love problem-solving and building tech solutions that make life easier!  
 
